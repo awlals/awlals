@@ -1,4 +1,5 @@
 <div align="center">
+  
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=지민%20Coding🎃&fontSize=70)
   
   <h2>:이빨을_보이며_웃고_있는_얼굴:SNS:이빨을_보이며_웃고_있는_얼굴:</h2>
